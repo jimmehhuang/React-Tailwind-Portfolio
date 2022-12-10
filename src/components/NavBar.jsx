@@ -1,7 +1,6 @@
 import React, {useState} from 'react'
-import {FiHome} from 'react-icons/fi';
-import {FiGithub} from 'react-icons/fi';
-import {FiMenu} from 'react-icons/fi';
+import {FiHome, FiMenu} from 'react-icons/fi';
+import {Link} from 'react-scroll';
 
 const NavBar = () => {
     
@@ -35,7 +34,9 @@ const NavBar = () => {
         <ul className="hidden md:flex">
             {navs.map(({id, link}
             ) => (            
-                <li key={id} className="px-4 cursor-pointer capitalize hover:scale-110"> {link} </li>
+                <li key={id} className="px-4 cursor-pointer capitalize hover:scale-110"> 
+                    <Link to={link} smooth duration={500}> {link} </Link>
+                 </li>
             ))}
         </ul>
         {/* react icons */}
@@ -47,7 +48,9 @@ const NavBar = () => {
         <ul className="flex flex-col justify-center items-center absolute top-0 left-0 w-full h-screen bg-gradient-to-b from-black to-gray-800 text-gray-500">
             {navs.map(({id, link}
             ) => (            
-                <li key={id} className="px-4 cursor-pointer capitalize py-6 text-4xl"> {link} </li>
+                <li key={id} className="px-4 cursor-pointer capitalize py-6 text-4xl"> 
+                    <Link to={link} smooth duration={500}> {link} </Link>
+                </li>
             ))}
         </ul>
         )}
