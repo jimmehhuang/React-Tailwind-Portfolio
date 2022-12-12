@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Tailwind-Portfolio/static/css/main.f6aaad0f.css",
+    "main.js": "/React-Tailwind-Portfolio/static/js/main.a307f6e9.js",
+    "static/media/utopiatextgame.png": "/React-Tailwind-Portfolio/static/media/utopiatextgame.5901a5c94cd14f0c8aeb.png",
+    "static/media/Mountainpose.jpg": "/React-Tailwind-Portfolio/static/media/Mountainpose.3826da54c629590d3623.jpg",
+    "static/media/react.png": "/React-Tailwind-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/React-Tailwind-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/React-Tailwind-Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/React-Tailwind-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/React-Tailwind-Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/React-Tailwind-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/React-Tailwind-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/React-Tailwind-Portfolio/index.html",
+    "main.f6aaad0f.css.map": "/React-Tailwind-Portfolio/static/css/main.f6aaad0f.css.map",
+    "main.a307f6e9.js.map": "/React-Tailwind-Portfolio/static/js/main.a307f6e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6aaad0f.css",
+    "static/js/main.a307f6e9.js"
+  ]
+}
