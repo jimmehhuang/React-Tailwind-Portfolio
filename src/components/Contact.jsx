@@ -6,7 +6,8 @@ const Contact = () => {
         <div className='flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full'>
             <div>
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>Contact</p>
-                <p className='py-6'>Submit the form below~</p>
+                <p className='py-6'>Feel free to submit the form below or click one of the links on the side
+                if you would like to get in touch!</p>
             </div>
 
             <div className='flex justify-center items-center'>

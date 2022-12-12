@@ -5,14 +5,16 @@ import {Link} from 'react-scroll'
 
 const Home = () => {
   return (
-    <div name="home" className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-700">
+    <div name="home" className="h-screen w-full bg-gradient-to-b from-black via-gray-700 to-gray-800">
         <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
             <div className="flex flex-col justify-center h-full">
                 <h2 className="text-4xl sm:text-5xl font-bold text-white">
-                    I am now a developer!
+                    I'm a full-stack developer!
                 </h2>
                 <p className="text-gray-400 py-4 max-w-md">
-                    I'll fill this in later.
+                    I have recently completed the UT Coding Bootcamp and am honing my skills in
+                    front-end and back-end software development. Currently, I enjoy working with
+                    React and Tailwind, which were used to construct this webpage!
                 </p>
                 <div>
                     <Link to="portfolio" smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-red-500 via-purple-400 to-violet-500 cursor-pointer'>
