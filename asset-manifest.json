@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/React-Tailwind-Portfolio/static/css/main.fe624311.css",
-    "main.js": "/React-Tailwind-Portfolio/static/js/main.816b4d60.js",
+    "main.js": "/React-Tailwind-Portfolio/static/js/main.15f33b60.js",
     "static/media/utopiatextgame.png": "/React-Tailwind-Portfolio/static/media/utopiatextgame.5901a5c94cd14f0c8aeb.png",
     "static/media/playdateapp.png": "/React-Tailwind-Portfolio/static/media/playdateapp.23fc14bd97c02ed5ec2b.png",
+    "static/media/clashgame.png": "/React-Tailwind-Portfolio/static/media/clashgame.e2efa10dcdf4f3464dbf.png",
     "static/media/Mountainpose.jpg": "/React-Tailwind-Portfolio/static/media/Mountainpose.3826da54c629590d3623.jpg",
     "static/media/sqlemployeetracker.png": "/React-Tailwind-Portfolio/static/media/sqlemployeetracker.5ebf55d32be5ba78b546.png",
     "static/media/ecommerceorm.png": "/React-Tailwind-Portfolio/static/media/ecommerceorm.0369e6afdfa69128d0c5.png",
@@ -17,10 +18,10 @@
     "static/media/javascript.png": "/React-Tailwind-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/React-Tailwind-Portfolio/index.html",
     "main.fe624311.css.map": "/React-Tailwind-Portfolio/static/css/main.fe624311.css.map",
-    "main.816b4d60.js.map": "/React-Tailwind-Portfolio/static/js/main.816b4d60.js.map"
+    "main.15f33b60.js.map": "/React-Tailwind-Portfolio/static/js/main.15f33b60.js.map"
   },
   "entrypoints": [
     "static/css/main.fe624311.css",
-    "static/js/main.816b4d60.js"
+    "static/js/main.15f33b60.js"
   ]
 }
